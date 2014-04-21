@@ -15,16 +15,16 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#00ff00;
+	color:#0000FF;
 }
 
 a, a:visited {
-	color:#c0c0c0;
+	color:#0000FF;
 	text-decoration:none;
 }
 
 a:hover {
-	color: #77ccee;
+	color: #0000FF;
 	text-decoration: none;
 }
 
