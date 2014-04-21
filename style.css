@@ -35,18 +35,17 @@ a:hover {
 	
 }
 
-#nav li {
-	display:block;
-	float: left;
-	padding:5px;
-	margin-bottom:20px;
-	margin-right:10px;
-	height:30px;
-	width:110px;
-	text-align:center;
-	font-size:13px;
-	border: 2px solid white;
-	border-radius:10px;
+#demo {
+	background: #fff;
+	border: 1px #ccc solid;
+	width: 960px;
+	margin: 0 auto;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	padding: 10px 15px;
+	-moz-box-shadow: 0 0 6px rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 0 6px rgba(0,0,0,.1);
+	position: relative;
 }
 
 #menu {
