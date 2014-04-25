@@ -1,13 +1,13 @@
 body {
 	color:#ffffff;
-	background:#006400;opacity:0.7;
+	background:#006400;
 	font-family:Courier;
 	width:960px;
 	margin:auto;
 }
 html { 
   background: url(http://upload.wikimedia.org/wikipedia/en/a/a2/MSU_Beaumont_Tower_1.jpg) no-repeat center ; 
-  background-size: cover;
+  background-size: opacity:0.4;
 }
 
 header, main, footer {
