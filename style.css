@@ -7,7 +7,7 @@ body {
 }
 html { 
   background: url(http://upload.wikimedia.org/wikipedia/en/a/a2/MSU_Beaumont_Tower_1.jpg) no-repeat center ; 
-  background-size: opacity:0.4;
+  background-size: cover;
 }
 
 header, main, footer {
@@ -38,6 +38,10 @@ a:hover {
 	
 }
 
+#example-four {
+  border-radius: 5px 20px 5px;
+  background: #BADA55;
+}
 #nav li {
 	display:block;
 	float: left;
