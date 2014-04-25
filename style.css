@@ -6,7 +6,7 @@ body {
 	margin:auto;
 }
 html { 
-  background: url(http://upload.wikimedia.org/wikipedia/en/a/a2/MSU_Beaumont_Tower_1.jpg) no-repeat fixed ; 
+  background: url(http://upload.wikimedia.org/wikipedia/en/a/a2/MSU_Beaumont_Tower_1.jpg) no-repeat fixed bottom ; 
   background-size: cover;
 }
 
