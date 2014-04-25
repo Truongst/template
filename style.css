@@ -54,6 +54,7 @@ a:hover {
 }
 
 #menu {
+	opacity: 0.5
 	width:150px;
 	display: block;
 	float:left;
