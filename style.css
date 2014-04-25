@@ -6,8 +6,8 @@ body {
 	margin:auto;
 }
 html { 
-  background: url(http://oi59.tinypic.com/dpcxdt.jpg) no-repeat center; 
-  background-size: center;
+  background: url(http://oi59.tinypic.com/dpcxdt.jpg) no-repeat cover; 
+  background-size: cover;
 }
 
 header, main, footer {
