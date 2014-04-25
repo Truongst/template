@@ -57,7 +57,7 @@ a:hover {
 	}
 
 #menu ul {
-	list-style-type: upper-roman;
+	list-style-type: circle;
 	float:left;
 	margin-left:0;
 	border-right: 1px solid #c0c0c0;
