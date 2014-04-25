@@ -1,6 +1,6 @@
 body {
-	color:#000000;
-	background-image:url(http://images3.pixlis.com/background-image-stripes-and-lines-seamless-tileable-lime-green-bright-green-2324o5.png);
+	color:#ffffff;
+	background color:green;
 	font-family:Verdana;
 	width:960px;
 	margin:auto;
@@ -21,16 +21,16 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#000000;
+	color:#ffffff;
 }
 
 a, a:visited {
-	color:#000000;
+	color:#ffffff;
 	text-decoration:none;
 }
 
 a:hover {
-	color: #000000;
+	color: #ffffff;
 	text-decoration: none;
 }
 
