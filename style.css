@@ -1,7 +1,6 @@
 body {
 	color:#ffffff;
-	background:#006400;
-	opacity: 0.5
+	background-color:green; filter:alpha(opacity=60); opacity:.6; 
 	font-family:Verdana;
 	width:960px;
 	margin:auto;
